@@ -18,6 +18,6 @@ def contact(request):
 ### for testing
 
 def test(request):
-    return render (request, 'about2.html')     
+    return render (request, 'test.html')     
 
 
